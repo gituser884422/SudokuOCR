@@ -3,7 +3,7 @@
 
 # SolveSudoku
 SolveSudoku extract and solve sudoku from image. It uses a collection of image processing techniques and Convolution Neural Network for training and recognition of characters.
-CNN is trained on MNIST dataset to detect digits.
+CNN is trained on MNIST dataset to detect digits.MNIST is a large database of handwritten digits that is commonly used for training various image processing systems.
 
 ## Blog
 Checkout the **articles on SolveSudoku** on Medium.com 
